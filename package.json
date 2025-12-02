@@ -1,0 +1,39 @@
+{
+  "name": "heloq",
+  "version": "0.1.0",
+  "description": "A minimal, fast, type-safe token library with HMAC-based signing.",
+  "module": "index.ts",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "keywords": [
+    "token",
+    "jwt",
+    "auth",
+    "crypto",
+    "security",
+    "hmac",
+    "heloq"
+  ],
+  "author": "unsafezero",
+  "license": "MIT",
+  "files": [
+    "index.ts",
+    "lib",
+    "types",
+    "utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unsafe0x0/heloq"
+  }
+}

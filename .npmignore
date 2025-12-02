@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Tests
+tests/
+
+# Config files
+tsconfig.json
+.eslintignore
+.eslintrc
+.gitignore
+bun.lock
+
+# Build output
+out/
+dist/
+*.tgz
+
+# Coverage
+coverage/
+*.lcov
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.*
+
+# Caches
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
