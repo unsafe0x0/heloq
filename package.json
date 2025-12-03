@@ -1,6 +1,6 @@
 {
   "name": "heloq",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A minimal, fast, type-safe token library with HMAC-based signing.",
   "module": "index.ts",
   "main": "index.ts",
